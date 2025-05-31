@@ -1,4 +1,5 @@
-import streamlit,
+import 
+streamlit,
 pandas
 numpy
 altair
@@ -9,3 +10,4 @@ plotly
 matplotlib    
 folium
 folium_static
+requirements
