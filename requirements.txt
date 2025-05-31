@@ -1,13 +1,11 @@
-import 
-streamlit,
+streamlit
 pandas
 numpy
 altair
 pydeck
 requests
 geopandas
-plotly  
-matplotlib    
+plotly
+matplotlib
 folium
-folium_static
-requirements
+
