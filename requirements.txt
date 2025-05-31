@@ -8,4 +8,7 @@ geopandas
 plotly
 matplotlib
 folium
-
+plotly.express
+re 
+rgb2hex
+folium_static
