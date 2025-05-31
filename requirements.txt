@@ -12,3 +12,4 @@ plotly.express
 re 
 rgb2hex
 folium_static
+streamlit folium 
