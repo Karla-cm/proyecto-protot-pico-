@@ -1,4 +1,4 @@
-streamlit
+import streamlit,
 pandas
 numpy
 altair
@@ -7,4 +7,5 @@ requests
 geopandas
 plotly  
 matplotlib    
-folium 
+folium
+folium_static
